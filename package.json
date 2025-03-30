@@ -1,0 +1,20 @@
+{
+  "name": "wonder-finance",
+  "version": "1.0.0",
+  "description": "Wonder Finance is a web application that helps users manage their finances smartly with AI-powered insights. It includes a FastAPI backend and a Next.js frontend.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev frontend",
+    "build": "next build frontend",
+    "start": "next start frontend",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
